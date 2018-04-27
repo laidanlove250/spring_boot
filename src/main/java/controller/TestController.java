@@ -19,4 +19,8 @@ public class TestController {
 		return "hi";
 	}
 	
+	public String helloWord(){
+		return "helloWord";
+	}
+	
 }
